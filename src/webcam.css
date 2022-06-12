@@ -1,0 +1,19 @@
+.app {
+	display: grid;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+}
+
+.app__container {
+	margin-top: 10px;
+	width: 500px;
+	height: 500px;
+	border: 1px solid #000;
+}
+
+.app__input {
+	margin-top: 10px;
+	text-align-last: center;
+}

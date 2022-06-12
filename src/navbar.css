@@ -1,0 +1,13 @@
+#navbar{
+    position:relative;
+    top:0;
+    width:100%;
+    z-index: 4;
+    margin-bottom: 50px;
+}
+
+#center{
+    text-align:center;
+    margin-left: 10px;
+    margin-right: 10px;
+}

@@ -1,0 +1,21 @@
+.Kalyzee {
+    width: 250px;  
+}
+
+#search {
+    position:fixed;
+    width:100%;
+    margin-top:20px;
+    margin-bottom:20px;
+    align-items:center;
+    overflow: hidden;
+}
+
+#header-search {
+    position:sticky;
+    margin-top:20px;
+}
+
+#margin {
+    margin-top:10px;
+}
